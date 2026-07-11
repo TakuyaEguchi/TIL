@@ -12,3 +12,7 @@
 ## [IAM](./IAM/)
 
 - [IAMユーザーの作成](./IAM/01-create-iam-user.md)
+
+## [CloudTrail](./CloudTrail/)
+
+- [CloudTrailで操作ログを記録する](./CloudTrail/01-enable-cloudtrail.md)
