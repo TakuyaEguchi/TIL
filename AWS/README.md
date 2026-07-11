@@ -7,3 +7,8 @@
 ## [CloudWatch](./CloudWatch/)
 
 - [Billing Alarmの設定](./CloudWatch/01-create-billing-alarm.md)
+
+
+## [IAM](./IAM/)
+
+- [IAMユーザーの作成](./IAM/01-create-iam-user.md)
