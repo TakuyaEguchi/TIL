@@ -16,3 +16,7 @@
 ## [CloudTrail](./CloudTrail/)
 
 - [CloudTrailで操作ログを記録する](./CloudTrail/01-enable-cloudtrail.md)
+
+## [VPC](./VPC/)
+
+- [VPCの作成とネットワーク構成](./VPC/02-create-vpc.md)
